@@ -49,20 +49,19 @@ nav{
 
 .t1{
     font-size: 25px;
-    color: #FCF6F5FF;
+    color: black;
     font-family: 'Nunito Sans', sans-serif;
-    margin-top: 200px;
-    margin-left: 10px;
+    
+    
+
 }
 .t2{
     font-size: 20px;
     color: #FCF6F5FF;
     font-family: 'Nunito Sans', sans-serif;
-    margin-top: 120px;
+    
 }
-section{
-    background-color: #89ABE3FF;
-}
+
 article .carousel{
     width: 500px;
 }
